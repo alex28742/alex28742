@@ -1,8 +1,8 @@
 # Aleksandr Kopnin
 
-Web Developer focused on building practical web applications and software systems, with a background in both hands-on development and technical project management.
+Web Developer with a strong background in technical project management and web delivery. I spent several years coordinating and supporting dozens of client web projects in parallel, covering planning, deadlines, QA, production support, and developer coordination, and later led a small project department in a web studio.
 
-I work across backend, frontend, architecture, troubleshooting, and delivery. My current focus is AI-assisted development: using modern coding agents to accelerate implementation while keeping architecture, requirements, review, testing, and validation under human control.
+Today I combine that delivery experience with hands-on development across backend, frontend, architecture, troubleshooting, and release decisions. My current focus is AI-assisted development: using modern coding agents to accelerate implementation while keeping architecture, requirements, review, testing, and validation under human control.
 
 ## Featured projects
 
@@ -39,6 +39,6 @@ The project is centered on contextual vocabulary learning: connecting dictionary
 
 ## How I work
 
-I am most interested in the point where product thinking, system design, and implementation meet.
+I am most interested in the point where product thinking, system design, implementation, and delivery meet. My project-management background makes me naturally attentive to scope, priorities, deadlines, QA, and the long-term cost of changes.
 
 AI tools make implementation faster, but I treat them as engineering tools rather than substitutes for judgment. I stay responsible for architecture, requirements, reviewing generated code, testing behavior, validating changes, and deciding what ships.
